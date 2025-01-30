@@ -16,7 +16,7 @@ Accurately modeling user preferences is crucial for improving the performance of
 
 ---
 
-## 🏗️ Methodology  
+## 🏗️ Components  
 ### 1️⃣ **User Profile Generation with LLMs**  
 - The **entire interaction history** (with timestamps) is passed to the **LLM twice**:  
   - **Pass 1**: Generates a **short-term preference profile**.  
